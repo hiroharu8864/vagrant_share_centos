@@ -13,10 +13,10 @@ end
 
 PreRequirement
 -----
-$ vagrant box add base64 CentOS-6.3-x86_64-v20130101.box
-$ vagrant up
-$ vagrant login
-$ vagrant share
+$ vagrant box add base64 CentOS-6.3-x86_64-v20130101.box  
+$ vagrant up  
+$ vagrant login  
+$ vagrant share  
 
 License and Authors
 -------------------
